@@ -1,2 +1,3 @@
 DataProvider: sqlserver
-DataConnectionString: Data Source=DESKTOP-1NCURUM;Initial Catalog=petrasurprisemvc;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=11
+DataConnectionString: Data Source=petrasurprise-server.database.windows.net;Initial Catalog=petrasurprise-db;Integrated Security=false;User ID=tarekhamou;Password=Batottamar12345;
+
